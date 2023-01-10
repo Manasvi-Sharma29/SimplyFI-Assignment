@@ -2,8 +2,6 @@
 
 This assignment is for the Backend developer position in simplifi.
 
-## API Reference
-
 ### Models
 - User Model
 ```yaml
@@ -18,6 +16,7 @@ This assignment is for the Backend developer position in simplifi.
   updatedAt: {timestamp}
 }
 ```
+## Student APIs 
 #### Upload the student data
 ### POST /upload
   - Upload a CSV file from  _**form-data**_
