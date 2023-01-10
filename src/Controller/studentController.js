@@ -1,6 +1,5 @@
 const userModel = require("../Models/studentModel");
 const { readCSV } = require("../readCSV");
-const multer = require("multer");
 const studentModel = require("../Models/studentModel");
 const createStudent = async function (req, res) {
   try {
